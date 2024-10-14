@@ -12,6 +12,13 @@ nav a {
     margin: 0 1em;
     transition: ease-in-out 0.3s;
 }
+
+.logosite {
+    width: 150px;
+    padding-left: 50%;
+}
+
+
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -25,11 +32,9 @@ body {
     border-left: 100%;
 }
 
-h1 {
-    padding-left: 49%;
+.logonav{
+    width: 150px;
 }
-
-
 
 footer {
     background-color: #5c5851;

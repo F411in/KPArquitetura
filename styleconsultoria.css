@@ -22,11 +22,18 @@ nav a {
     padding-left: 50%;
 }
 
+
 body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
     background-color: #a0998d;
+}
+
+.foto-kallinny {
+    padding-left: 50%;
+    border-radius: 75px;
+    border-left: 100%;
 }
 
 

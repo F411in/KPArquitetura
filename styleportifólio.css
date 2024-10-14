@@ -1,3 +1,4 @@
+
 .logonav{
     width: 150px;
 }
@@ -22,6 +23,7 @@ nav a {
     padding-left: 50%;
 }
 
+
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -29,6 +31,28 @@ body {
     background-color: #a0998d;
 }
 
+.foto-kallinny {
+    padding-left: 50%;
+    border-radius: 75px;
+    border-left: 100%;
+}
+
+h1 {
+    padding-left: 49%;
+}
+
+
+.projeto1 {
+   
+}
+
+.projeto2 {
+   
+}
+
+.projeto3 {
+   
+}
 
 
 footer {
@@ -40,3 +64,6 @@ footer {
     bottom: 0;
     width: 100%;
 }
+
+
+
